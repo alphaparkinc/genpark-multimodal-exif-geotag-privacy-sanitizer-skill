@@ -1,0 +1,12 @@
+{
+  "name": "genpark-multimodal-exif-geotag-privacy-sanitizer-skill",
+  "version": "1.0.0",
+  "description": "Multimodal image privacy filter stripping GPS coordinates, device serials, and sensitive EXIF markers",
+  "author": "GenPark AI Engineering",
+  "license": "MIT",
+  "keywords": ["exif-sanitizer", "privacy-filter", "gps-geotag", "jpeg-stripping", "multimodal-security", "agent-skills"],
+  "mcp": {
+    "supported": true,
+    "entrypoint": "mcp_server.py"
+  }
+}
